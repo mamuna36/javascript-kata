@@ -27,6 +27,7 @@
   },
   "homepage": "https://github.com/wundertax/javascript-kata#readme",
   "dependencies": {
+    "fs": "^0.0.1-security",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
   },
